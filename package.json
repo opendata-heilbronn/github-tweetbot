@@ -1,0 +1,17 @@
+{
+  "name": "github-tweetbot",
+  "description": "tweets about my checkins",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express": "*",
+    "twitter": "*",
+    "moment": "*",
+    "body-parser": "*"
+  }
+}
